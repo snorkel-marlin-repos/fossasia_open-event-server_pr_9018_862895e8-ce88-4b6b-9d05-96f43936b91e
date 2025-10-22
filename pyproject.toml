@@ -59,7 +59,7 @@ authors = ["Fossasia <office@fossasia.org>"]
 
 [tool.poetry.dependencies]
 python = "^3.8,<3.10"
-pycparser = "2.21"
+pycparser = "2.23"
 Flask = "1.1.2"
 Flask-Limiter = "1.4"
 Flask-Script = "2.0.6"
